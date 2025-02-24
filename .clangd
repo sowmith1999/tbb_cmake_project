@@ -1,0 +1,5 @@
+CompileFlags:
+  Remove:
+  Add:
+    - -std=c++17
+    - -I./intel/tbb/latest/include
